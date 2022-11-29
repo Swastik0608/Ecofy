@@ -1,0 +1,56 @@
+body {
+    text-align: center;
+    background-color: aquamarine;
+}
+.menu{
+    list-style:none;
+    font-family:Palette Mosaic;
+    position:fixed;
+    margin-top:10px;
+    right:30px;
+    cursor:pointer;
+    z-index:10;
+}
+a{
+    text-decoration: none;
+        
+    }
+    h1 {
+        font-family:monospace;
+    }
+    h2{
+        font-family: serif;
+    }
+    .links{
+        color:aqua;
+        padding-bottom: 5px; 
+        padding-left: 5px;
+        padding-right: 5px;
+        padding-top: 5px;
+        font-family: fantasy;
+        font-size: 20px;
+        float: left;
+    }
+    .links:hover{
+        background-color: aquamarine;
+    }
+    
+    .menu{
+        list-style:none;
+        font-family:Palette Mosaic;
+        position:fixed;
+        margin-top:10px;
+        right:30px;
+        cursor:pointer;
+        z-index:10;
+    }
+    a{
+    text-decoration: none;
+        
+    }
+    h1 {
+        font-family:monospace;
+    }
+    h2{
+        font-family: serif;
+    }
